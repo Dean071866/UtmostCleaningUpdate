@@ -1,7 +1,13 @@
 {
   "version": "0.0.2",
   "download_sites": [
-    "https://dean071866.itch.io/utmost-cleaning",
-    "https://gamejolt.com/games/Utmost_cleaning/830192"
+    {
+      "name": "Itch.io",
+      "url": "https://dean071866.itch.io/utmost-cleaning"
+    },
+    {
+      "name": "Game Jolt",
+      "url": "https://gamejolt.com/games/Utmost_cleaning/830192"
+    }
   ]
 }
