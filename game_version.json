@@ -1,0 +1,7 @@
+{
+  "version": "2.4.2",
+  "download_sites": [
+    "https://example1.com",
+    "https://example2.com"
+  ]
+}
